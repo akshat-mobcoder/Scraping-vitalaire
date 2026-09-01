@@ -1,0 +1,613 @@
+2026-09-01 23:50:35  INFO      ============================================================
+2026-09-01 23:50:35  INFO      Crawl started  |  base: https://sa.vitalaire.com  |  seed pages: 10
+2026-09-01 23:50:35  INFO      ============================================================
+2026-09-01 23:50:35  DEBUG     Initial queue: 10 URL(s)
+2026-09-01 23:50:35  INFO      [1/10] Fetching: https://sa.vitalaire.com
+2026-09-01 23:50:35  DEBUG     Requesting: https://sa.vitalaire.com
+2026-09-01 23:50:36  DEBUG     Response: 200 OK  (101.8 KB)
+2026-09-01 23:50:36  DEBUG       Section flushed: [h1] 'VitalAire Arabia'  (0 content part(s))
+2026-09-01 23:50:36  DEBUG       Section flushed: [h2] 'Welcome to VitalAire Arabia'  (0 content part(s))
+2026-09-01 23:50:36  DEBUG       Section flushed: [h2] 'Air Liquide Health Care'  (1 content part(s))
+2026-09-01 23:50:36  DEBUG       Section flushed: [h3] 'VitalAire Arabia and the Saudi Arabia Ministry of Health pla'  (2 content part(s))
+2026-09-01 23:50:36  DEBUG     Empty heading tag <h3> skipped
+2026-09-01 23:50:36  DEBUG       Section flushed: [h3] 'Click here to read the Press Release'  (0 content part(s))
+2026-09-01 23:50:36  DEBUG       Section flushed: [h2] 'Who are we?'  (2 content part(s))
+2026-09-01 23:50:36  DEBUG       Section flushed: [h2] 'Mission'  (0 content part(s))
+2026-09-01 23:50:36  DEBUG       Section flushed: [h2] 'Vision'  (1 content part(s))
+2026-09-01 23:50:36  DEBUG       Section flushed: [h3] 'Our Solutions'  (2 content part(s))
+2026-09-01 23:50:36  DEBUG       Section flushed: [h2] 'Where to find us?'  (2 content part(s))
+2026-09-01 23:50:36  DEBUG       Section flushed: [h3] 'VitalAire Arabia - Dammam'  (0 content part(s))
+2026-09-01 23:50:36  DEBUG       Section flushed: [h3] 'VitalAire Arabia - Jeddah'  (0 content part(s))
+2026-09-01 23:50:36  DEBUG       Section flushed (final): [h3] 'VitalAire Arabia Head Office Riyadh'  (18 content part(s))
+2026-09-01 23:50:36  INFO      Extracted 13 section(s), 27 internal link(s) from: https://sa.vitalaire.com
+2026-09-01 23:50:36  DEBUG       Queued 24 new link(s)  (queue depth: 33)
+2026-09-01 23:50:37  INFO      [2/34] Fetching: https://sa.vitalaire.com/diabetes
+2026-09-01 23:50:37  DEBUG     Requesting: https://sa.vitalaire.com/diabetes
+2026-09-01 23:50:39  DEBUG     Response: 200 OK  (74.1 KB)
+2026-09-01 23:50:39  DEBUG       Section flushed (final): [h1] 'What is Diabetes?'  (48 content part(s))
+2026-09-01 23:50:39  INFO      Extracted 1 section(s), 29 internal link(s) from: https://sa.vitalaire.com/diabetes
+2026-09-01 23:50:39  DEBUG       Queued 4 new link(s)  (queue depth: 36)
+2026-09-01 23:50:40  INFO      [3/38] Fetching: https://sa.vitalaire.com/sleep-apnea
+2026-09-01 23:50:40  DEBUG     Requesting: https://sa.vitalaire.com/sleep-apnea
+2026-09-01 23:50:41  DEBUG     Response: 200 OK  (66.8 KB)
+2026-09-01 23:50:41  DEBUG       Section flushed: [h1] 'What is Sleep Apnea?'  (0 content part(s))
+2026-09-01 23:50:41  DEBUG       Section flushed: [h2] 'Why do we sleep?'  (0 content part(s))
+2026-09-01 23:50:41  DEBUG       Section flushed: [h2] 'Sleep Apnea explained in 1 minute'  (2 content part(s))
+2026-09-01 23:50:41  DEBUG       Section flushed (final): [h2] 'Watch this video to know more about Sleep Apnea.'  (6 content part(s))
+2026-09-01 23:50:41  INFO      Extracted 4 section(s), 26 internal link(s) from: https://sa.vitalaire.com/sleep-apnea
+2026-09-01 23:50:41  DEBUG       Queued 1 new link(s)  (queue depth: 36)
+2026-09-01 23:50:42  INFO      [4/39] Fetching: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/do-i-have-sleep-apnea
+2026-09-01 23:50:42  DEBUG     Requesting: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/do-i-have-sleep-apnea
+2026-09-01 23:50:42  DEBUG     Response: 200 OK  (63.9 KB)
+2026-09-01 23:50:42  DEBUG       Section flushed: [h1] 'Do I have Sleep Apnea?'  (0 content part(s))
+2026-09-01 23:50:42  DEBUG       Section flushed: [h3] 'STEP 1: FIND A SLEEP SPECIALIST'  (2 content part(s))
+2026-09-01 23:50:42  DEBUG       Section flushed (final): [h3] 'STEP 2: PREPARE FOR YOUR VISIT'  (6 content part(s))
+2026-09-01 23:50:42  INFO      Extracted 3 section(s), 27 internal link(s) from: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/do-i-have-sleep-apnea
+2026-09-01 23:50:42  DEBUG       Queued 2 new link(s)  (queue depth: 37)
+2026-09-01 23:50:43  INFO      [5/41] Fetching: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/what-treatment-sleep-apnea
+2026-09-01 23:50:43  DEBUG     Requesting: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/what-treatment-sleep-apnea
+2026-09-01 23:50:44  DEBUG     Response: 200 OK  (64.4 KB)
+2026-09-01 23:50:44  DEBUG       Section flushed: [h1] 'What is the treatment for Sleep Apnea?'  (1 content part(s))
+2026-09-01 23:50:44  DEBUG       Section flushed: [h2] 'We offer several support programs to accommodate each of you'  (2 content part(s))
+2026-09-01 23:50:44  DEBUG       Section flushed (final): [h2] 'What is CPAP?'  (5 content part(s))
+2026-09-01 23:50:44  INFO      Extracted 3 section(s), 26 internal link(s) from: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/what-treatment-sleep-apnea
+2026-09-01 23:50:44  DEBUG       Queued 1 new link(s)  (queue depth: 37)
+2026-09-01 23:50:45  INFO      [6/42] Fetching: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/our-products-and-services
+2026-09-01 23:50:45  DEBUG     Requesting: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/our-products-and-services
+2026-09-01 23:50:45  DEBUG     Response: 200 OK  (64.5 KB)
+2026-09-01 23:50:45  DEBUG       Section flushed: [h1] 'Our Products and Services'  (1 content part(s))
+2026-09-01 23:50:45  DEBUG       Section flushed: [h3] 'Choose your Perfect CPAP Device and Mask Combination'  (2 content part(s))
+2026-09-01 23:50:45  DEBUG       Section flushed: [h3] 'More Choice with CPAP Purchases'  (1 content part(s))
+2026-09-01 23:50:45  DEBUG       Section flushed: [h3] 'Our Team will be happy to provide you with the support you m'  (2 content part(s))
+2026-09-01 23:50:45  DEBUG       Section flushed (final): [h2] 'A life changing treatment'  (5 content part(s))
+2026-09-01 23:50:45  INFO      Extracted 5 section(s), 26 internal link(s) from: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/our-products-and-services
+2026-09-01 23:50:45  DEBUG       Queued 1 new link(s)  (queue depth: 37)
+2026-09-01 23:50:46  INFO      [7/43] Fetching: https://sa.vitalaire.com/oxygen-therapy
+2026-09-01 23:50:46  DEBUG     Requesting: https://sa.vitalaire.com/oxygen-therapy
+2026-09-01 23:50:47  DEBUG     Response: 200 OK  (62.9 KB)
+2026-09-01 23:50:47  DEBUG       Section flushed: [h1] 'What is Home oxygen therapy ?'  (2 content part(s))
+2026-09-01 23:50:47  DEBUG       Section flushed: [h2] 'Short-term therapy'  (0 content part(s))
+2026-09-01 23:50:47  DEBUG       Section flushed (final): [h2] 'Long term oxygen therapy'  (5 content part(s))
+2026-09-01 23:50:47  INFO      Extracted 3 section(s), 26 internal link(s) from: https://sa.vitalaire.com/oxygen-therapy
+2026-09-01 23:50:47  DEBUG       Queued 1 new link(s)  (queue depth: 37)
+2026-09-01 23:50:48  INFO      [8/44] Fetching: https://sa.vitalaire.com/ventilation
+2026-09-01 23:50:48  DEBUG     Requesting: https://sa.vitalaire.com/ventilation
+2026-09-01 23:50:48  DEBUG     Response: 200 OK  (62.7 KB)
+2026-09-01 23:50:48  DEBUG       Section flushed: [h1] 'Ventilation Treatment'  (0 content part(s))
+2026-09-01 23:50:48  DEBUG       Section flushed: [h3] 'What is Non-Invasive Ventilation?'  (0 content part(s))
+2026-09-01 23:50:48  DEBUG       Section flushed: [h3] 'Advantages of Home Based Ventilation'  (2 content part(s))
+2026-09-01 23:50:48  DEBUG       Section flushed: [h3] 'Benefits of Non-invasive ventilation (NIV)'  (0 content part(s))
+2026-09-01 23:50:48  DEBUG       Section flushed (final): [h3] 'Modes of Invasive Ventilation?'  (6 content part(s))
+2026-09-01 23:50:48  INFO      Extracted 5 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ventilation
+2026-09-01 23:50:48  DEBUG       Queued 1 new link(s)  (queue depth: 37)
+2026-09-01 23:50:49  INFO      [9/45] Fetching: https://sa.vitalaire.com/home-health-care
+2026-09-01 23:50:49  DEBUG     Requesting: https://sa.vitalaire.com/home-health-care
+2026-09-01 23:50:57  WARNING   HTTP error for https://sa.vitalaire.com/home-health-care — 404 Client Error: Not Found for url: https://sa.vitalaire.com/home-health-care
+2026-09-01 23:50:57  WARNING   No data returned for: https://sa.vitalaire.com/home-health-care
+2026-09-01 23:50:58  INFO      [10/45] Fetching: https://sa.vitalaire.com/contact-us
+2026-09-01 23:50:58  DEBUG     Requesting: https://sa.vitalaire.com/contact-us
+2026-09-01 23:50:59  DEBUG     Response: 200 OK  (73.3 KB)
+2026-09-01 23:50:59  DEBUG       Section flushed: [h1] 'Visit / Contact Us'  (2 content part(s))
+2026-09-01 23:50:59  DEBUG       Section flushed: [h3] 'VitalAire Head Office Riyadh'  (4 content part(s))
+2026-09-01 23:50:59  DEBUG       Section flushed: [h3] 'VitalAire Arabia - Jeddah'  (4 content part(s))
+2026-09-01 23:50:59  DEBUG       Section flushed (final): [h3] 'VitalAire Arabia - Dammam'  (9 content part(s))
+2026-09-01 23:50:59  INFO      Extracted 4 section(s), 26 internal link(s) from: https://sa.vitalaire.com/contact-us
+2026-09-01 23:50:59  DEBUG       Queued 1 new link(s)  (queue depth: 36)
+2026-09-01 23:51:00  INFO      [11/46] Fetching: https://sa.vitalaire.com/visit-contact-us
+2026-09-01 23:51:00  DEBUG     Requesting: https://sa.vitalaire.com/visit-contact-us
+2026-09-01 23:51:00  DEBUG     Response: 200 OK  (73.3 KB)
+2026-09-01 23:51:00  DEBUG       Section flushed: [h1] 'Visit / Contact Us'  (2 content part(s))
+2026-09-01 23:51:00  DEBUG       Section flushed: [h3] 'VitalAire Head Office Riyadh'  (4 content part(s))
+2026-09-01 23:51:00  DEBUG       Section flushed: [h3] 'VitalAire Arabia - Jeddah'  (4 content part(s))
+2026-09-01 23:51:00  DEBUG       Section flushed (final): [h3] 'VitalAire Arabia - Dammam'  (9 content part(s))
+2026-09-01 23:51:00  INFO      Extracted 4 section(s), 26 internal link(s) from: https://sa.vitalaire.com/visit-contact-us
+2026-09-01 23:51:01  INFO      [12/46] Fetching: https://sa.vitalaire.com/welcome-vitalaire-arabia
+2026-09-01 23:51:01  DEBUG     Requesting: https://sa.vitalaire.com/welcome-vitalaire-arabia
+2026-09-01 23:51:01  DEBUG     Response: 200 OK  (101.8 KB)
+2026-09-01 23:51:01  DEBUG       Section flushed: [h1] 'VitalAire Arabia'  (0 content part(s))
+2026-09-01 23:51:01  DEBUG       Section flushed: [h2] 'Welcome to VitalAire Arabia'  (0 content part(s))
+2026-09-01 23:51:01  DEBUG       Section flushed: [h2] 'Air Liquide Health Care'  (1 content part(s))
+2026-09-01 23:51:01  DEBUG       Section flushed: [h3] 'VitalAire Arabia and the Saudi Arabia Ministry of Health pla'  (2 content part(s))
+2026-09-01 23:51:01  DEBUG     Empty heading tag <h3> skipped
+2026-09-01 23:51:01  DEBUG       Section flushed: [h3] 'Click here to read the Press Release'  (0 content part(s))
+2026-09-01 23:51:01  DEBUG       Section flushed: [h2] 'Who are we?'  (2 content part(s))
+2026-09-01 23:51:01  DEBUG       Section flushed: [h2] 'Mission'  (0 content part(s))
+2026-09-01 23:51:01  DEBUG       Section flushed: [h2] 'Vision'  (1 content part(s))
+2026-09-01 23:51:01  DEBUG       Section flushed: [h3] 'Our Solutions'  (2 content part(s))
+2026-09-01 23:51:01  DEBUG       Section flushed: [h2] 'Where to find us?'  (2 content part(s))
+2026-09-01 23:51:01  DEBUG       Section flushed: [h3] 'VitalAire Arabia - Dammam'  (0 content part(s))
+2026-09-01 23:51:01  DEBUG       Section flushed: [h3] 'VitalAire Arabia - Jeddah'  (0 content part(s))
+2026-09-01 23:51:01  DEBUG       Section flushed (final): [h3] 'VitalAire Arabia Head Office Riyadh'  (18 content part(s))
+2026-09-01 23:51:01  INFO      Extracted 13 section(s), 27 internal link(s) from: https://sa.vitalaire.com/welcome-vitalaire-arabia
+2026-09-01 23:51:02  INFO      [13/46] Fetching: https://sa.vitalaire.com/home-healthcare/doctors-home-visit
+2026-09-01 23:51:02  DEBUG     Requesting: https://sa.vitalaire.com/home-healthcare/doctors-home-visit
+2026-09-01 23:51:03  DEBUG     Response: 200 OK  (68.1 KB)
+2026-09-01 23:51:03  DEBUG       Section flushed: [h1] 'Doctors Home Visit'  (1 content part(s))
+2026-09-01 23:51:03  DEBUG       Section flushed: [h3] "Adult's home healthcare"  (7 content part(s))
+2026-09-01 23:51:03  DEBUG       Section flushed: [h3] "More Adult's Services :"  (7 content part(s))
+2026-09-01 23:51:03  DEBUG       Section flushed: [h3] 'Children home healthcare'  (1 content part(s))
+2026-09-01 23:51:03  DEBUG       Section flushed: [h3] 'Geriatric Home healthcare'  (1 content part(s))
+2026-09-01 23:51:03  DEBUG       Section flushed: [h3] 'Pregnant women home healthcare'  (8 content part(s))
+2026-09-01 23:51:03  DEBUG       Section flushed: [h3] 'Tele-Medicine'  (1 content part(s))
+2026-09-01 23:51:03  DEBUG     Empty heading tag <h3> skipped
+2026-09-01 23:51:03  DEBUG       Section flushed (final): [h3] 'VitalAire Arabia takes care of you with love.'  (5 content part(s))
+2026-09-01 23:51:03  INFO      Extracted 8 section(s), 26 internal link(s) from: https://sa.vitalaire.com/home-healthcare/doctors-home-visit
+2026-09-01 23:51:03  DEBUG       Queued 1 new link(s)  (queue depth: 34)
+2026-09-01 23:51:04  INFO      [14/47] Fetching: https://sa.vitalaire.com/home-healthcare/nursing-services
+2026-09-01 23:51:04  DEBUG     Requesting: https://sa.vitalaire.com/home-healthcare/nursing-services
+2026-09-01 23:51:04  DEBUG     Response: 200 OK  (65.2 KB)
+2026-09-01 23:51:04  DEBUG       Section flushed: [h1] 'Nursing Services'  (0 content part(s))
+2026-09-01 23:51:04  DEBUG       Section flushed: [h2] 'What Is Home Health Nursing?'  (1 content part(s))
+2026-09-01 23:51:04  DEBUG       Section flushed: [h3] '5 Reasons To Choose Home Health Nursing Services :'  (1 content part(s))
+2026-09-01 23:51:04  DEBUG       Section flushed: [h3] 'Respiratory care'  (2 content part(s))
+2026-09-01 23:51:04  DEBUG       Section flushed: [h3] 'Home Sleep Test :'  (1 content part(s))
+2026-09-01 23:51:04  DEBUG       Section flushed: [h3] 'What are the home nursing services offered by VitalAire Arab'  (2 content part(s))
+2026-09-01 23:51:04  DEBUG       Section flushed (final): [h3] 'VitalAire Arabia , Together For A Better Life!'  (5 content part(s))
+2026-09-01 23:51:04  INFO      Extracted 7 section(s), 26 internal link(s) from: https://sa.vitalaire.com/home-healthcare/nursing-services
+2026-09-01 23:51:04  DEBUG       Queued 1 new link(s)  (queue depth: 34)
+2026-09-01 23:51:05  INFO      [15/48] Fetching: https://sa.vitalaire.com/home-healthcare/physiotherapy-services
+2026-09-01 23:51:05  DEBUG     Requesting: https://sa.vitalaire.com/home-healthcare/physiotherapy-services
+2026-09-01 23:51:05  DEBUG     Response: 200 OK  (65.9 KB)
+2026-09-01 23:51:05  DEBUG       Section flushed: [h1] 'Physiotherapy Services'  (0 content part(s))
+2026-09-01 23:51:05  DEBUG       Section flushed: [h2] 'Physiotherapy'  (1 content part(s))
+2026-09-01 23:51:05  DEBUG       Section flushed: [h3] 'Why to choose home physiotherapy?'  (1 content part(s))
+2026-09-01 23:51:05  DEBUG       Section flushed (final): [h3] 'WHO NEEDS PHYSIOTHERAPY?'  (18 content part(s))
+2026-09-01 23:51:05  INFO      Extracted 4 section(s), 26 internal link(s) from: https://sa.vitalaire.com/home-healthcare/physiotherapy-services
+2026-09-01 23:51:05  DEBUG       Queued 1 new link(s)  (queue depth: 34)
+2026-09-01 23:51:06  INFO      [16/49] Fetching: https://sa.vitalaire.com/what-diabetes
+2026-09-01 23:51:06  DEBUG     Requesting: https://sa.vitalaire.com/what-diabetes
+2026-09-01 23:51:06  DEBUG     Response: 200 OK  (74.1 KB)
+2026-09-01 23:51:06  DEBUG       Section flushed (final): [h1] 'What is Diabetes?'  (48 content part(s))
+2026-09-01 23:51:06  INFO      Extracted 1 section(s), 29 internal link(s) from: https://sa.vitalaire.com/what-diabetes
+2026-09-01 23:51:07  INFO      [17/49] Fetching: https://sa.vitalaire.com/diabetes/continuous-glucose-monitoring-cgm/what-real-time-continuous-glucose-monitoring
+2026-09-01 23:51:07  DEBUG     Requesting: https://sa.vitalaire.com/diabetes/continuous-glucose-monitoring-cgm/what-real-time-continuous-glucose-monitoring
+2026-09-01 23:51:07  DEBUG     Response: 200 OK  (65.3 KB)
+2026-09-01 23:51:07  DEBUG       Section flushed (final): [h1] 'What is real time Continuous Glucose Monitoring?'  (10 content part(s))
+2026-09-01 23:51:07  INFO      Extracted 1 section(s), 26 internal link(s) from: https://sa.vitalaire.com/diabetes/continuous-glucose-monitoring-cgm/what-real-time-continuous-glucose-monitoring
+2026-09-01 23:51:07  DEBUG       Queued 1 new link(s)  (queue depth: 33)
+2026-09-01 23:51:08  INFO      [18/50] Fetching: https://sa.vitalaire.com/diabetes/continuous-glucose-monitoring-cgm/why-continuous-glucose-monitoring
+2026-09-01 23:51:08  DEBUG     Requesting: https://sa.vitalaire.com/diabetes/continuous-glucose-monitoring-cgm/why-continuous-glucose-monitoring
+2026-09-01 23:51:09  DEBUG     Response: 200 OK  (63.0 KB)
+2026-09-01 23:51:09  DEBUG       Section flushed (final): [h1] 'Why a Continuous Glucose Monitoring?'  (6 content part(s))
+2026-09-01 23:51:09  INFO      Extracted 1 section(s), 26 internal link(s) from: https://sa.vitalaire.com/diabetes/continuous-glucose-monitoring-cgm/why-continuous-glucose-monitoring
+2026-09-01 23:51:09  DEBUG       Queued 1 new link(s)  (queue depth: 33)
+2026-09-01 23:51:10  INFO      [19/51] Fetching: https://sa.vitalaire.com/uses-and-advantages-cgm
+2026-09-01 23:51:10  DEBUG     Requesting: https://sa.vitalaire.com/uses-and-advantages-cgm
+2026-09-01 23:51:10  DEBUG     Response: 200 OK  (62.7 KB)
+2026-09-01 23:51:10  DEBUG       Section flushed (final): [h1] 'Uses and Advantages of CGM'  (8 content part(s))
+2026-09-01 23:51:10  INFO      Extracted 1 section(s), 26 internal link(s) from: https://sa.vitalaire.com/uses-and-advantages-cgm
+2026-09-01 23:51:10  DEBUG       Queued 1 new link(s)  (queue depth: 33)
+2026-09-01 23:51:11  INFO      [20/52] Fetching: https://sa.vitalaire.com/diabetes/continuous-glucose-monitoring-cgm/our-products-and-services
+2026-09-01 23:51:11  DEBUG     Requesting: https://sa.vitalaire.com/diabetes/continuous-glucose-monitoring-cgm/our-products-and-services
+2026-09-01 23:51:11  DEBUG     Response: 200 OK  (70.2 KB)
+2026-09-01 23:51:11  DEBUG       Section flushed: [h1] 'Our Products and Services'  (4 content part(s))
+2026-09-01 23:51:11  DEBUG       Section flushed: [h3] 'VitalAire Arabia is the Exclusive distributor of the Dexcom '  (1 content part(s))
+2026-09-01 23:51:11  DEBUG       Section flushed: [h3] 'CONTACT US , our diabetes team will be happy to provide you '  (1 content part(s))
+2026-09-01 23:51:11  DEBUG     Empty heading tag <h3> skipped
+2026-09-01 23:51:11  DEBUG       Section flushed (final): [h3] 'VitalAire Arabia proposes initiation and follow-up services '  (5 content part(s))
+2026-09-01 23:51:11  INFO      Extracted 4 section(s), 26 internal link(s) from: https://sa.vitalaire.com/diabetes/continuous-glucose-monitoring-cgm/our-products-and-services
+2026-09-01 23:51:11  DEBUG       Queued 1 new link(s)  (queue depth: 33)
+2026-09-01 23:51:12  INFO      [21/53] Fetching: https://sa.vitalaire.com/what-insulin-pump
+2026-09-01 23:51:12  DEBUG     Requesting: https://sa.vitalaire.com/what-insulin-pump
+2026-09-01 23:51:13  DEBUG     Response: 200 OK  (62.7 KB)
+2026-09-01 23:51:13  DEBUG       Section flushed (final): [h1] 'What is an Insulin Pump?'  (10 content part(s))
+2026-09-01 23:51:13  INFO      Extracted 1 section(s), 26 internal link(s) from: https://sa.vitalaire.com/what-insulin-pump
+2026-09-01 23:51:13  DEBUG       Queued 1 new link(s)  (queue depth: 33)
+2026-09-01 23:51:14  INFO      [22/54] Fetching: https://sa.vitalaire.com/diabetes/tandem-tslim-x2-insulin-pump/what-advanced-hybrid-closed-loop
+2026-09-01 23:51:14  DEBUG     Requesting: https://sa.vitalaire.com/diabetes/tandem-tslim-x2-insulin-pump/what-advanced-hybrid-closed-loop
+2026-09-01 23:51:14  DEBUG     Response: 200 OK  (65.2 KB)
+2026-09-01 23:51:14  DEBUG       Section flushed: [h1] 'What is Advanced Hybrid Closed Loop?'  (0 content part(s))
+2026-09-01 23:51:14  DEBUG       Section flushed (final): [h2] 'Know More About Tandem T:slim X2'  (9 content part(s))
+2026-09-01 23:51:14  INFO      Extracted 2 section(s), 26 internal link(s) from: https://sa.vitalaire.com/diabetes/tandem-tslim-x2-insulin-pump/what-advanced-hybrid-closed-loop
+2026-09-01 23:51:14  DEBUG       Queued 1 new link(s)  (queue depth: 33)
+2026-09-01 23:51:15  INFO      [23/55] Fetching: https://sa.vitalaire.com/diabetes/insulin-pump/our-products-and-services
+2026-09-01 23:51:15  DEBUG     Requesting: https://sa.vitalaire.com/diabetes/insulin-pump/our-products-and-services
+2026-09-01 23:51:15  DEBUG     Response: 200 OK  (64.2 KB)
+2026-09-01 23:51:15  DEBUG       Section flushed: [h1] 'Our Products and Services'  (5 content part(s))
+2026-09-01 23:51:15  DEBUG       Section flushed: [h3] 'Providing best in class devices, easy to learn , easy to tea'  (0 content part(s))
+2026-09-01 23:51:15  DEBUG       Section flushed: [h3] 'Optimizing data management with one report for all devices'  (0 content part(s))
+2026-09-01 23:51:15  DEBUG       Section flushed (final): [h3] 'Improving the quality of life and wellbeing of patients and '  (5 content part(s))
+2026-09-01 23:51:15  INFO      Extracted 4 section(s), 26 internal link(s) from: https://sa.vitalaire.com/diabetes/insulin-pump/our-products-and-services
+2026-09-01 23:51:15  DEBUG       Queued 1 new link(s)  (queue depth: 33)
+2026-09-01 23:51:16  INFO      [24/56] Fetching: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/what-sleep-apnea
+2026-09-01 23:51:16  DEBUG     Requesting: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/what-sleep-apnea
+2026-09-01 23:51:16  DEBUG     Response: 200 OK  (66.8 KB)
+2026-09-01 23:51:16  DEBUG       Section flushed: [h1] 'What is Sleep Apnea?'  (0 content part(s))
+2026-09-01 23:51:16  DEBUG       Section flushed: [h2] 'Why do we sleep?'  (0 content part(s))
+2026-09-01 23:51:16  DEBUG       Section flushed: [h2] 'Sleep Apnea explained in 1 minute'  (2 content part(s))
+2026-09-01 23:51:16  DEBUG       Section flushed (final): [h2] 'Watch this video to know more about Sleep Apnea.'  (6 content part(s))
+2026-09-01 23:51:16  INFO      Extracted 4 section(s), 26 internal link(s) from: https://sa.vitalaire.com/sleep-apnea/sleep-apnea/what-sleep-apnea
+2026-09-01 23:51:17  INFO      [25/56] Fetching: https://sa.vitalaire.com/oxygen-therapy/what-home-oxygen-therapy
+2026-09-01 23:51:17  DEBUG     Requesting: https://sa.vitalaire.com/oxygen-therapy/what-home-oxygen-therapy
+2026-09-01 23:51:17  DEBUG     Response: 200 OK  (62.9 KB)
+2026-09-01 23:51:17  DEBUG       Section flushed: [h1] 'What is Home oxygen therapy ?'  (2 content part(s))
+2026-09-01 23:51:17  DEBUG       Section flushed: [h2] 'Short-term therapy'  (0 content part(s))
+2026-09-01 23:51:17  DEBUG       Section flushed (final): [h2] 'Long term oxygen therapy'  (5 content part(s))
+2026-09-01 23:51:17  INFO      Extracted 3 section(s), 26 internal link(s) from: https://sa.vitalaire.com/oxygen-therapy/what-home-oxygen-therapy
+2026-09-01 23:51:18  INFO      [26/56] Fetching: https://sa.vitalaire.com/oxygen-therapy/what-home-oxygen-therapy/our-products-and-services
+2026-09-01 23:51:18  DEBUG     Requesting: https://sa.vitalaire.com/oxygen-therapy/what-home-oxygen-therapy/our-products-and-services
+2026-09-01 23:51:18  DEBUG     Response: 200 OK  (62.6 KB)
+2026-09-01 23:51:18  DEBUG       Section flushed: [h1] 'Our Products and Services'  (2 content part(s))
+2026-09-01 23:51:18  DEBUG       Section flushed: [h3] 'Our Offers'  (3 content part(s))
+2026-09-01 23:51:18  DEBUG       Section flushed (final): [h3] 'Order Now'  (5 content part(s))
+2026-09-01 23:51:18  INFO      Extracted 3 section(s), 26 internal link(s) from: https://sa.vitalaire.com/oxygen-therapy/what-home-oxygen-therapy/our-products-and-services
+2026-09-01 23:51:18  DEBUG       Queued 1 new link(s)  (queue depth: 31)
+2026-09-01 23:51:19  INFO      [27/57] Fetching: https://sa.vitalaire.com/mechanical-ventilation/ventilation-treatment
+2026-09-01 23:51:19  DEBUG     Requesting: https://sa.vitalaire.com/mechanical-ventilation/ventilation-treatment
+2026-09-01 23:51:19  DEBUG     Response: 200 OK  (62.7 KB)
+2026-09-01 23:51:19  DEBUG       Section flushed: [h1] 'Ventilation Treatment'  (0 content part(s))
+2026-09-01 23:51:19  DEBUG       Section flushed: [h3] 'What is Non-Invasive Ventilation?'  (0 content part(s))
+2026-09-01 23:51:19  DEBUG       Section flushed: [h3] 'Advantages of Home Based Ventilation'  (2 content part(s))
+2026-09-01 23:51:19  DEBUG       Section flushed: [h3] 'Benefits of Non-invasive ventilation (NIV)'  (0 content part(s))
+2026-09-01 23:51:19  DEBUG       Section flushed (final): [h3] 'Modes of Invasive Ventilation?'  (6 content part(s))
+2026-09-01 23:51:19  INFO      Extracted 5 section(s), 26 internal link(s) from: https://sa.vitalaire.com/mechanical-ventilation/ventilation-treatment
+2026-09-01 23:51:20  INFO      [28/57] Fetching: https://sa.vitalaire.com/ventilation/services-products
+2026-09-01 23:51:20  DEBUG     Requesting: https://sa.vitalaire.com/ventilation/services-products
+2026-09-01 23:51:21  DEBUG     Response: 200 OK  (64.5 KB)
+2026-09-01 23:51:21  DEBUG       Section flushed: [h1] 'Services & Products'  (1 content part(s))
+2026-09-01 23:51:21  DEBUG       Section flushed: [h2] 'V60 Ventilator'  (1 content part(s))
+2026-09-01 23:51:21  DEBUG       Section flushed: [h2] 'V680 Ventilator'  (1 content part(s))
+2026-09-01 23:51:21  DEBUG       Section flushed: [h2] 'Trilogy 202 ventilator'  (1 content part(s))
+2026-09-01 23:51:21  DEBUG       Section flushed: [h2] 'Trilogy EVO 300'  (2 content part(s))
+2026-09-01 23:51:21  DEBUG       Section flushed (final): [h3] 'Order Now'  (5 content part(s))
+2026-09-01 23:51:21  INFO      Extracted 6 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ventilation/services-products
+2026-09-01 23:51:21  DEBUG       Queued 1 new link(s)  (queue depth: 30)
+2026-09-01 23:51:22  INFO      [29/58] Fetching: https://sa.vitalaire.com/ar
+2026-09-01 23:51:22  DEBUG     Requesting: https://sa.vitalaire.com/ar
+2026-09-01 23:51:22  DEBUG     Response: 200 OK  (108.8 KB)
+2026-09-01 23:51:22  DEBUG       Section flushed: [h1] 'VitalAire Arabia'  (0 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed: [h2] 'مرحبـاً بكم في فيتالـير العربية !'  (0 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed: [h2] 'الرعاية الصحية ايرليكـيد'  (1 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed: [h3] 'تخطط شركة فايتالير العربية ووزارة الصحة السعودية لإطلاق مركز'  (2 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed: [h3] 'اضغط هنا لقراءة البيان الصحفي'  (0 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed: [h2] 'من نحن؟'  (2 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed: [h2] 'مُهمتنا'  (1 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed: [h2] 'الرؤيـة'  (1 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed: [h3] 'حُلولنا :'  (2 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed: [h2] 'Where to find us?'  (2 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed: [h3] 'فيتالير العربية - الدمام'  (0 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed: [h3] 'فيتالير العربية - المكتب الرئيسي الرياض'  (0 content part(s))
+2026-09-01 23:51:22  DEBUG       Section flushed (final): [h3] 'فيتالير العربية - جدة'  (12 content part(s))
+2026-09-01 23:51:22  INFO      Extracted 13 section(s), 27 internal link(s) from: https://sa.vitalaire.com/ar
+2026-09-01 23:51:22  DEBUG       Queued 5 new link(s)  (queue depth: 34)
+2026-09-01 23:51:23  INFO      [30/63] Fetching: https://sa.vitalaire.com/air-liquide-healthcare
+2026-09-01 23:51:23  DEBUG     Requesting: https://sa.vitalaire.com/air-liquide-healthcare
+2026-09-01 23:51:23  DEBUG     Response: 200 OK  (60.2 KB)
+2026-09-01 23:51:23  DEBUG       Section flushed: [h1] 'Air Liquide Healthcare'  (0 content part(s))
+2026-09-01 23:51:23  DEBUG       Section flushed: [h3] 'Air Liquide Healthcare is engaged alongside patients, health'  (1 content part(s))
+2026-09-01 23:51:23  DEBUG       Section flushed (final): [h3] 'Air Liquide Home Healthcare Business'  (7 content part(s))
+2026-09-01 23:51:23  INFO      Extracted 3 section(s), 26 internal link(s) from: https://sa.vitalaire.com/air-liquide-healthcare
+2026-09-01 23:51:24  INFO      [31/63] Fetching: https://sa.vitalaire.com/sites/vitalaire_sa/files/2023-11/press-release_mou-moh-ksa-x-vitalaire-arabia.pdf
+2026-09-01 23:51:24  DEBUG     Requesting: https://sa.vitalaire.com/sites/vitalaire_sa/files/2023-11/press-release_mou-moh-ksa-x-vitalaire-arabia.pdf
+2026-09-01 23:51:24  DEBUG     Response: 200 OK  (333.6 KB)
+2026-09-01 23:51:24  INFO      Extracted 0 section(s), 0 internal link(s) from: https://sa.vitalaire.com/sites/vitalaire_sa/files/2023-11/press-release_mou-moh-ksa-x-vitalaire-arabia.pdf
+2026-09-01 23:51:25  INFO      [32/63] Fetching: https://sa.vitalaire.com/sites/vitalaire_sa/files/2022-09/terms-conditions-of-sale.pdf
+2026-09-01 23:51:25  DEBUG     Requesting: https://sa.vitalaire.com/sites/vitalaire_sa/files/2022-09/terms-conditions-of-sale.pdf
+2026-09-01 23:51:26  DEBUG     Response: 200 OK  (1564.7 KB)
+2026-09-01 23:51:27  INFO      Extracted 0 section(s), 0 internal link(s) from: https://sa.vitalaire.com/sites/vitalaire_sa/files/2022-09/terms-conditions-of-sale.pdf
+2026-09-01 23:51:28  INFO      [33/63] Fetching: https://sa.vitalaire.com/legal-notice-0
+2026-09-01 23:51:28  DEBUG     Requesting: https://sa.vitalaire.com/legal-notice-0
+2026-09-01 23:51:28  DEBUG     Response: 200 OK  (79.9 KB)
+2026-09-01 23:51:28  DEBUG       Section flushed: [h1] 'Legal Notice'  (1 content part(s))
+2026-09-01 23:51:28  DEBUG       Section flushed (final): [h2] 'Intellectual property'  (79 content part(s))
+2026-09-01 23:51:28  INFO      Extracted 2 section(s), 26 internal link(s) from: https://sa.vitalaire.com/legal-notice-0
+2026-09-01 23:51:29  INFO      [34/63] Fetching: https://sa.vitalaire.com/sitemap
+2026-09-01 23:51:29  DEBUG     Requesting: https://sa.vitalaire.com/sitemap
+2026-09-01 23:51:29  DEBUG     Response: 200 OK  (65.0 KB)
+2026-09-01 23:51:29  DEBUG       Section flushed: [h1] 'Sitemap'  (0 content part(s))
+2026-09-01 23:51:29  DEBUG       Section flushed: [h2] 'Home'  (0 content part(s))
+2026-09-01 23:51:29  DEBUG       Section flushed: [h2] 'Diabetes'  (1 content part(s))
+2026-09-01 23:51:29  DEBUG       Section flushed: [h3] 'Continuous Glucose Monitoring (CGM)'  (5 content part(s))
+2026-09-01 23:51:29  DEBUG       Section flushed: [h3] 'Insulin Pump'  (4 content part(s))
+2026-09-01 23:51:29  DEBUG       Section flushed: [h2] 'Sleep Apnea'  (1 content part(s))
+2026-09-01 23:51:29  DEBUG       Section flushed: [h3] 'Sleep Apnea'  (5 content part(s))
+2026-09-01 23:51:29  DEBUG       Section flushed: [h2] 'Oxygen Therapy'  (1 content part(s))
+2026-09-01 23:51:29  DEBUG       Section flushed: [h3] 'What is Home Oxygen Therapy ?'  (2 content part(s))
+2026-09-01 23:51:29  DEBUG       Section flushed (final): [h2] 'Ventilation'  (8 content part(s))
+2026-09-01 23:51:29  INFO      Extracted 10 section(s), 26 internal link(s) from: https://sa.vitalaire.com/sitemap
+2026-09-01 23:51:30  INFO      [35/63] Fetching: https://sa.vitalaire.com/ar/mahw-alsukry
+2026-09-01 23:51:30  DEBUG     Requesting: https://sa.vitalaire.com/ar/mahw-alsukry
+2026-09-01 23:51:30  DEBUG     Response: 200 OK  (82.5 KB)
+2026-09-01 23:51:30  DEBUG       Section flushed (final): [h1] 'ماهو السُكري ؟'  (22 content part(s))
+2026-09-01 23:51:30  INFO      Extracted 1 section(s), 29 internal link(s) from: https://sa.vitalaire.com/ar/mahw-alsukry
+2026-09-01 23:51:30  DEBUG       Queued 3 new link(s)  (queue depth: 31)
+2026-09-01 23:51:32  INFO      [36/66] Fetching: https://sa.vitalaire.com/signs-symptoms-diabetes
+2026-09-01 23:51:32  DEBUG     Requesting: https://sa.vitalaire.com/signs-symptoms-diabetes
+2026-09-01 23:51:32  DEBUG     Response: 200 OK  (61.1 KB)
+2026-09-01 23:51:32  DEBUG       Section flushed (final): [h1] 'Signs & Symptoms of Diabetes'  (9 content part(s))
+2026-09-01 23:51:32  INFO      Extracted 1 section(s), 26 internal link(s) from: https://sa.vitalaire.com/signs-symptoms-diabetes
+2026-09-01 23:51:33  INFO      [37/66] Fetching: https://sa.vitalaire.com/how-diagnose-diabetes
+2026-09-01 23:51:33  DEBUG     Requesting: https://sa.vitalaire.com/how-diagnose-diabetes
+2026-09-01 23:51:33  DEBUG     Response: 200 OK  (69.8 KB)
+2026-09-01 23:51:33  DEBUG       Section flushed: [h1] 'How to Diagnose Diabetes?'  (4 content part(s))
+2026-09-01 23:51:33  DEBUG       Section flushed: [h2] 'Blood Glucose Test'  (12 content part(s))
+2026-09-01 23:51:33  DEBUG       Section flushed (final): [h2] 'Hba1c Test'  (19 content part(s))
+2026-09-01 23:51:33  INFO      Extracted 3 section(s), 26 internal link(s) from: https://sa.vitalaire.com/how-diagnose-diabetes
+2026-09-01 23:51:34  INFO      [38/66] Fetching: https://sa.vitalaire.com/diabetes-treatment-and-management
+2026-09-01 23:51:34  DEBUG     Requesting: https://sa.vitalaire.com/diabetes-treatment-and-management
+2026-09-01 23:51:35  DEBUG     Response: 200 OK  (77.9 KB)
+2026-09-01 23:51:35  DEBUG       Section flushed: [h1] 'Diabetes Treatment and Management'  (0 content part(s))
+2026-09-01 23:51:35  DEBUG       Section flushed: [h2] 'Type 1 Diabetes Treatment'  (2 content part(s))
+2026-09-01 23:51:35  DEBUG       Section flushed: [h2] 'Insulin Syringes'  (3 content part(s))
+2026-09-01 23:51:35  DEBUG       Section flushed: [h2] 'Insulin Pens'  (4 content part(s))
+2026-09-01 23:51:35  DEBUG       Section flushed: [h2] 'Insulin Pump Therapy'  (5 content part(s))
+2026-09-01 23:51:35  DEBUG       Section flushed: [h2] 'Type 2 Diabetes Treatment'  (2 content part(s))
+2026-09-01 23:51:35  DEBUG       Section flushed: [h2] 'Physical Activity and Nutrition'  (5 content part(s))
+2026-09-01 23:51:35  DEBUG       Section flushed: [h2] 'Oral Antidiabetic Drugs'  (6 content part(s))
+2026-09-01 23:51:35  DEBUG       Section flushed (final): [h2] 'Injectable Medications for Type 2 Diabetes'  (22 content part(s))
+2026-09-01 23:51:35  INFO      Extracted 9 section(s), 26 internal link(s) from: https://sa.vitalaire.com/diabetes-treatment-and-management
+2026-09-01 23:51:36  INFO      [39/66] Fetching: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/ma-hw-anqta-alnfs-athna-alnwm
+2026-09-01 23:51:36  DEBUG     Requesting: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/ma-hw-anqta-alnfs-athna-alnwm
+2026-09-01 23:51:36  DEBUG     Response: 200 OK  (72.0 KB)
+2026-09-01 23:51:36  DEBUG       Section flushed: [h1] 'ما هو انقطاع النفس أثناء النوم؟'  (0 content part(s))
+2026-09-01 23:51:36  DEBUG       Section flushed: [h2] 'لماذا ننام؟'  (1 content part(s))
+2026-09-01 23:51:36  DEBUG       Section flushed: [h2] 'شرح انقطاع النفس أثناء النوم في دقيقة واحدة'  (2 content part(s))
+2026-09-01 23:51:36  DEBUG       Section flushed (final): [h2] 'شاهد هذا الفيديو؛ لمعرفة المزيد عن انقطاع النفس أثناء النوم'  (7 content part(s))
+2026-09-01 23:51:36  INFO      Extracted 4 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/ma-hw-anqta-alnfs-athna-alnwm
+2026-09-01 23:51:37  INFO      [40/66] Fetching: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/hl-aany-mn-anqta-alnfs-athna-alnwm
+2026-09-01 23:51:37  DEBUG     Requesting: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/hl-aany-mn-anqta-alnfs-athna-alnwm
+2026-09-01 23:51:37  DEBUG     Response: 200 OK  (68.3 KB)
+2026-09-01 23:51:37  DEBUG       Section flushed: [h1] 'هل أعاني من انقطاع النفس أثناء النوم؟'  (0 content part(s))
+2026-09-01 23:51:37  DEBUG       Section flushed: [h3] 'الخطوة الأولى: ابحث عن اختصاصي نوم إذا كنت تعتقد أنك تعاني م'  (0 content part(s))
+2026-09-01 23:51:37  DEBUG       Section flushed (final): [h3] 'الخطوة الثانية: التجهز للزيارة قبل زيارة اختصاصي النوم؛ اضغط'  (7 content part(s))
+2026-09-01 23:51:37  INFO      Extracted 3 section(s), 27 internal link(s) from: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/hl-aany-mn-anqta-alnfs-athna-alnwm
+2026-09-01 23:51:37  DEBUG       Queued 1 new link(s)  (queue depth: 27)
+2026-09-01 23:51:38  INFO      [41/67] Fetching: https://sa.vitalaire.com/am-i-risk-sleep-apnea-1
+2026-09-01 23:51:38  DEBUG     Requesting: https://sa.vitalaire.com/am-i-risk-sleep-apnea-1
+2026-09-01 23:51:41  DEBUG     Response: 200 OK  (75.3 KB)
+2026-09-01 23:51:41  DEBUG       Section flushed: [h1] 'Am I at Risk for Sleep Apnea?'  (1 content part(s))
+2026-09-01 23:51:41  DEBUG       Section flushed (final): [h2] 'Test test'  (6 content part(s))
+2026-09-01 23:51:41  INFO      Extracted 2 section(s), 28 internal link(s) from: https://sa.vitalaire.com/am-i-risk-sleep-apnea-1
+2026-09-01 23:51:41  DEBUG       Queued 3 new link(s)  (queue depth: 29)
+2026-09-01 23:51:42  INFO      [42/70] Fetching: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/ma-laj-anqta-alnfs-athna-alnwm
+2026-09-01 23:51:42  DEBUG     Requesting: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/ma-laj-anqta-alnfs-athna-alnwm
+2026-09-01 23:51:42  DEBUG     Response: 200 OK  (69.3 KB)
+2026-09-01 23:51:42  DEBUG       Section flushed: [h1] 'ما علاج انقطاع النفس أثناء النوم؟'  (1 content part(s))
+2026-09-01 23:51:42  DEBUG       Section flushed: [h2] 'نقدم عدة برامج دعم لتفي باحتياجاتك على نحو مخصص:'  (2 content part(s))
+2026-09-01 23:51:42  DEBUG       Section flushed (final): [h2] 'ماهو ضغط المجرى الهوائي الإيجابي المستمر؟'  (6 content part(s))
+2026-09-01 23:51:42  INFO      Extracted 3 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/ma-laj-anqta-alnfs-athna-alnwm
+2026-09-01 23:51:43  INFO      [43/70] Fetching: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/khdmatna-w-mntjatna
+2026-09-01 23:51:43  DEBUG     Requesting: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/khdmatna-w-mntjatna
+2026-09-01 23:51:43  DEBUG     Response: 200 OK  (70.5 KB)
+2026-09-01 23:51:43  DEBUG       Section flushed: [h1] 'خدماتـنا و منتجاتـنا'  (1 content part(s))
+2026-09-01 23:51:43  DEBUG       Section flushed: [h3] 'اختر توليفة قناع وجهاز الضغط الهوائي الإيجابي المثالي لك'  (1 content part(s))
+2026-09-01 23:51:43  DEBUG       Section flushed: [h3] 'خيارات أكثر مع مشتريات أجهزة الضغط الهوائي الإيجابي'  (4 content part(s))
+2026-09-01 23:51:43  DEBUG       Section flushed (final): [h2] 'جهاز يغير حياتك'  (5 content part(s))
+2026-09-01 23:51:43  INFO      Extracted 4 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/anqta-alnfs-athna-alnwm/anqta-alnfs-athna-alnwm/khdmatna-w-mntjatna
+2026-09-01 23:51:44  INFO      [44/70] Fetching: https://sa.vitalaire.com/ar/allaj-balaksjyn/ma-hw-allaj-almnzly-balaksjyn
+2026-09-01 23:51:44  DEBUG     Requesting: https://sa.vitalaire.com/ar/allaj-balaksjyn/ma-hw-allaj-almnzly-balaksjyn
+2026-09-01 23:51:45  DEBUG     Response: 200 OK  (66.5 KB)
+2026-09-01 23:51:45  DEBUG       Section flushed: [h1] 'ما هو العلاج المنزلي بالأكسجين؟'  (1 content part(s))
+2026-09-01 23:51:45  DEBUG       Section flushed: [h2] 'العلاج قصير الأمد بالأكسجين'  (1 content part(s))
+2026-09-01 23:51:45  DEBUG       Section flushed (final): [h2] 'العلاج طويل الأمد بالأكسجين'  (8 content part(s))
+2026-09-01 23:51:45  INFO      Extracted 3 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/allaj-balaksjyn/ma-hw-allaj-almnzly-balaksjyn
+2026-09-01 23:51:46  INFO      [45/70] Fetching: https://sa.vitalaire.com/ar/altnfs-alsnay/altnfs-alsnay
+2026-09-01 23:51:46  DEBUG     Requesting: https://sa.vitalaire.com/ar/altnfs-alsnay/altnfs-alsnay
+2026-09-01 23:51:46  DEBUG     Response: 200 OK  (66.3 KB)
+2026-09-01 23:51:46  DEBUG       Section flushed: [h1] 'التنفس الصناعي'  (0 content part(s))
+2026-09-01 23:51:46  DEBUG       Section flushed: [h3] 'ماهو التنفس الصناعي ؟'  (1 content part(s))
+2026-09-01 23:51:46  DEBUG       Section flushed: [h3] 'مزايا التنفس الصناعي :'  (2 content part(s))
+2026-09-01 23:51:46  DEBUG       Section flushed: [h3] 'مزايا التنفس الغير الجراحي :'  (2 content part(s))
+2026-09-01 23:51:46  DEBUG       Section flushed (final): [h3] 'أنماط التهوية غير الجراحية :'  (7 content part(s))
+2026-09-01 23:51:46  INFO      Extracted 5 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/altnfs-alsnay/altnfs-alsnay
+2026-09-01 23:51:47  INFO      [46/70] Fetching: https://sa.vitalaire.com/ar/qm-bzyartna-atsl-bna
+2026-09-01 23:51:47  DEBUG     Requesting: https://sa.vitalaire.com/ar/qm-bzyartna-atsl-bna
+2026-09-01 23:51:47  DEBUG     Response: 200 OK  (74.1 KB)
+2026-09-01 23:51:47  DEBUG       Section flushed (final): [h1] 'قم بزيارتنا / اتصل بنـا'  (13 content part(s))
+2026-09-01 23:51:47  INFO      Extracted 1 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/qm-bzyartna-atsl-bna
+2026-09-01 23:51:48  INFO      [47/70] Fetching: https://sa.vitalaire.com/ar/alrayt-alshyt-almnzlyt/zyart-altbyb-almnzlyt
+2026-09-01 23:51:48  DEBUG     Requesting: https://sa.vitalaire.com/ar/alrayt-alshyt-almnzlyt/zyart-altbyb-almnzlyt
+2026-09-01 23:51:48  DEBUG     Response: 200 OK  (71.9 KB)
+2026-09-01 23:51:48  DEBUG       Section flushed: [h1] 'زيارة الطبيب المنزلية'  (2 content part(s))
+2026-09-01 23:51:48  DEBUG       Section flushed: [h3] 'نبدأ برعاية طفلك'  (1 content part(s))
+2026-09-01 23:51:48  DEBUG       Section flushed: [h3] 'رعاية صحة الأم والطفل'  (1 content part(s))
+2026-09-01 23:51:48  DEBUG       Section flushed: [h3] 'رعاية كبار السِن'  (1 content part(s))
+2026-09-01 23:51:48  DEBUG       Section flushed: [h3] 'الرعاية الصحية المنزلية للحوامل'  (5 content part(s))
+2026-09-01 23:51:48  DEBUG       Section flushed: [h3] 'الأستشارة الهاتفية'  (0 content part(s))
+2026-09-01 23:51:48  DEBUG       Section flushed: [h3] 'ما هو التطبيب عن بُعد؟'  (1 content part(s))
+2026-09-01 23:51:48  DEBUG       Section flushed: [h3] 'ما هي الفائدة منه؟'  (1 content part(s))
+2026-09-01 23:51:48  DEBUG       Section flushed (final): [h3] 'لا داعي للقلق واطمئنوا، طبيبكم على بُعد مُكالمة هاتفية فقط.📞'  (5 content part(s))
+2026-09-01 23:51:48  INFO      Extracted 9 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/alrayt-alshyt-almnzlyt/zyart-altbyb-almnzlyt
+2026-09-01 23:51:49  INFO      [48/70] Fetching: https://sa.vitalaire.com/ar/alrayt-alshyt-almnzlyt/zyart-altmryd-almnzly
+2026-09-01 23:51:49  DEBUG     Requesting: https://sa.vitalaire.com/ar/alrayt-alshyt-almnzlyt/zyart-altmryd-almnzly
+2026-09-01 23:51:51  DEBUG     Response: 200 OK  (70.6 KB)
+2026-09-01 23:51:51  DEBUG       Section flushed: [h1] 'زيارة التمريض المنزلي'  (0 content part(s))
+2026-09-01 23:51:51  DEBUG       Section flushed: [h2] 'ما هو تمريض الصحة المنزلية؟'  (1 content part(s))
+2026-09-01 23:51:51  DEBUG       Section flushed: [h3] 'ما هي خدمات التمريض المنزلي التي تقدمها فايتاليرالعربية؟'  (1 content part(s))
+2026-09-01 23:51:51  DEBUG       Section flushed: [h3] 'رعاية الجهاز التنفسي :'  (2 content part(s))
+2026-09-01 23:51:51  DEBUG       Section flushed (final): [h3] 'اختبار النوم في المنزل :'  (6 content part(s))
+2026-09-01 23:51:51  INFO      Extracted 5 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/alrayt-alshyt-almnzlyt/zyart-altmryd-almnzly
+2026-09-01 23:51:52  INFO      [49/70] Fetching: https://sa.vitalaire.com/ar/alrayt-alshyt-almnzlyt/allaj-altbyy
+2026-09-01 23:51:52  DEBUG     Requesting: https://sa.vitalaire.com/ar/alrayt-alshyt-almnzlyt/allaj-altbyy
+2026-09-01 23:51:52  DEBUG     Response: 200 OK  (70.1 KB)
+2026-09-01 23:51:52  DEBUG       Section flushed: [h1] 'العلاج الطبيعي'  (0 content part(s))
+2026-09-01 23:51:52  DEBUG       Section flushed: [h3] 'هي إحدى المهن الصحية المساندة. يتم توفيره من قبل المعالجين ا'  (0 content part(s))
+2026-09-01 23:51:52  DEBUG       Section flushed: [h3] 'لماذا تختار العلاج الطبيعي بالمنزل؟'  (1 content part(s))
+2026-09-01 23:51:52  DEBUG       Section flushed: [h3] 'من يحتاج إلى العلاج الطبيعي؟'  (0 content part(s))
+2026-09-01 23:51:52  DEBUG       Section flushed: [h3] 'المسنين'  (1 content part(s))
+2026-09-01 23:51:52  DEBUG       Section flushed: [h3] 'إصابات الجهاز العضلي'  (1 content part(s))
+2026-09-01 23:51:52  DEBUG       Section flushed: [h3] 'الأمراض العصبية'  (1 content part(s))
+2026-09-01 23:51:52  DEBUG       Section flushed: [h3] 'مرضى السكتة الدماغية'  (2 content part(s))
+2026-09-01 23:51:52  DEBUG       Section flushed (final): [h3] 'معـاً ، لأجل حيـاة أفضل!'  (5 content part(s))
+2026-09-01 23:51:52  INFO      Extracted 9 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/alrayt-alshyt-almnzlyt/allaj-altbyy
+2026-09-01 23:51:53  INFO      [50/70] Fetching: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/ma-hy-almraqbt-almstmrt-lmstwy-alskr-fy-alwqt-alhqyqy
+2026-09-01 23:51:53  DEBUG     Requesting: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/ma-hy-almraqbt-almstmrt-lmstwy-alskr-fy-alwqt-alhqyqy
+2026-09-01 23:51:53  DEBUG     Response: 200 OK  (69.3 KB)
+2026-09-01 23:51:53  DEBUG       Section flushed (final): [h1] 'ما هي المراقبة المستمرة لمستوى السكر في الوقت الحقيقي؟'  (11 content part(s))
+2026-09-01 23:51:53  INFO      Extracted 1 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/ma-hy-almraqbt-almstmrt-lmstwy-alskr-fy-alwqt-alhqyqy
+2026-09-01 23:51:54  INFO      [51/70] Fetching: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/lmadha-mraqbt-aljlwkwz-almstmrt
+2026-09-01 23:51:54  DEBUG     Requesting: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/lmadha-mraqbt-aljlwkwz-almstmrt
+2026-09-01 23:51:54  DEBUG     Response: 200 OK  (66.8 KB)
+2026-09-01 23:51:54  DEBUG       Section flushed (final): [h1] 'لماذا مراقبة الجلوكوز المستمرة؟'  (7 content part(s))
+2026-09-01 23:51:54  INFO      Extracted 1 section(s), 27 internal link(s) from: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/lmadha-mraqbt-aljlwkwz-almstmrt
+2026-09-01 23:51:54  DEBUG       Queued 1 new link(s)  (queue depth: 20)
+2026-09-01 23:51:55  INFO      [52/71] Fetching: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/mzaya-nzam-almraqbt-almstmrt-lljlwkwz-wastkhdamath
+2026-09-01 23:51:55  DEBUG     Requesting: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/mzaya-nzam-almraqbt-almstmrt-lljlwkwz-wastkhdamath
+2026-09-01 23:51:56  DEBUG     Response: 200 OK  (66.7 KB)
+2026-09-01 23:51:56  DEBUG       Section flushed (final): [h1] 'مزايا نظام المراقبة المستمرة للجلوكوز واستخداماته'  (8 content part(s))
+2026-09-01 23:51:56  INFO      Extracted 1 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/mzaya-nzam-almraqbt-almstmrt-lljlwkwz-wastkhdamath
+2026-09-01 23:51:57  INFO      [53/71] Fetching: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/khdmatna-wmntjatna
+2026-09-01 23:51:57  DEBUG     Requesting: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/khdmatna-wmntjatna
+2026-09-01 23:51:57  DEBUG     Response: 200 OK  (73.9 KB)
+2026-09-01 23:51:57  DEBUG       Section flushed: [h1] 'خدماتنا ومنتجاتنا'  (11 content part(s))
+2026-09-01 23:51:57  DEBUG       Section flushed (final): [h3] 'شركة فايتالير العربية هي الموزع الحصري لنظام ديكسكوم جي 6 لم'  (10 content part(s))
+2026-09-01 23:51:57  INFO      Extracted 2 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/alsukry/qyas-aljlwkwz-almstmr/khdmatna-wmntjatna
+2026-09-01 23:51:58  INFO      [54/71] Fetching: https://sa.vitalaire.com/ar/alsukry/mdkht-alanswlyn/ma-almqswd-bmdkht-alanswlyn
+2026-09-01 23:51:58  DEBUG     Requesting: https://sa.vitalaire.com/ar/alsukry/mdkht-alanswlyn/ma-almqswd-bmdkht-alanswlyn
+2026-09-01 23:51:58  DEBUG     Response: 200 OK  (66.3 KB)
+2026-09-01 23:51:58  DEBUG       Section flushed (final): [h1] 'ما المقصود بمضخة الأنسولين؟'  (11 content part(s))
+2026-09-01 23:51:58  INFO      Extracted 1 section(s), 27 internal link(s) from: https://sa.vitalaire.com/ar/alsukry/mdkht-alanswlyn/ma-almqswd-bmdkht-alanswlyn
+2026-09-01 23:51:59  INFO      [55/71] Fetching: https://sa.vitalaire.com/ar/alsukry/mdkht-alanswlyn/ma-hy-alhlqt-almghlqt-alhjynt-almtqdmt
+2026-09-01 23:51:59  DEBUG     Requesting: https://sa.vitalaire.com/ar/alsukry/mdkht-alanswlyn/ma-hy-alhlqt-almghlqt-alhjynt-almtqdmt
+2026-09-01 23:52:00  DEBUG     Response: 200 OK  (67.3 KB)
+2026-09-01 23:52:00  DEBUG       Section flushed: [h1] 'ما هي الحلقة المغلقة الهجينة المتقدمة؟'  (0 content part(s))
+2026-09-01 23:52:00  DEBUG       Section flushed (final): [h2] 'أعرف المزيد عن تانديـمT:slim X2'  (9 content part(s))
+2026-09-01 23:52:00  INFO      Extracted 2 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/alsukry/mdkht-alanswlyn/ma-hy-alhlqt-almghlqt-alhjynt-almtqdmt
+2026-09-01 23:52:01  INFO      [56/71] Fetching: https://sa.vitalaire.com/ar/alsukry/mdkht-alanswlyn/khdmatna-wmntjatna
+2026-09-01 23:52:01  DEBUG     Requesting: https://sa.vitalaire.com/ar/alsukry/mdkht-alanswlyn/khdmatna-wmntjatna
+2026-09-01 23:52:02  DEBUG     Response: 200 OK  (67.1 KB)
+2026-09-01 23:52:02  DEBUG       Section flushed: [h1] 'خدماتنا ومنتجاتنا'  (0 content part(s))
+2026-09-01 23:52:02  DEBUG       Section flushed (final): [h2] 'منتجاتنا وخدماتنا'  (7 content part(s))
+2026-09-01 23:52:02  INFO      Extracted 2 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/alsukry/mdkht-alanswlyn/khdmatna-wmntjatna
+2026-09-01 23:52:03  INFO      [57/71] Fetching: https://sa.vitalaire.com/ar/allaj-balaksjyn/ma-hw-allaj-almnzly-balaksjyn/khdmatna-wmntjatna
+2026-09-01 23:52:03  DEBUG     Requesting: https://sa.vitalaire.com/ar/allaj-balaksjyn/ma-hw-allaj-almnzly-balaksjyn/khdmatna-wmntjatna
+2026-09-01 23:52:03  DEBUG     Response: 200 OK  (65.0 KB)
+2026-09-01 23:52:03  DEBUG       Section flushed: [h1] 'خدماتنا ومنتجاتنا'  (1 content part(s))
+2026-09-01 23:52:03  DEBUG       Section flushed (final): [h3] 'عروضنا لدينا ثلاثة برامج تهوية لك لتحقيق أقصى فائدة من علاجك'  (8 content part(s))
+2026-09-01 23:52:03  INFO      Extracted 2 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/allaj-balaksjyn/ma-hw-allaj-almnzly-balaksjyn/khdmatna-wmntjatna
+2026-09-01 23:52:04  INFO      [58/71] Fetching: https://sa.vitalaire.com/ar/altnfs-alsnay/khdmatna-w-mntjatna
+2026-09-01 23:52:04  DEBUG     Requesting: https://sa.vitalaire.com/ar/altnfs-alsnay/khdmatna-w-mntjatna
+2026-09-01 23:52:04  DEBUG     Response: 200 OK  (67.3 KB)
+2026-09-01 23:52:04  DEBUG       Section flushed: [h1] 'خدماتـنا و منتجاتنا'  (1 content part(s))
+2026-09-01 23:52:04  DEBUG       Section flushed: [h2] 'جهاز التنفس الصناعي V60'  (1 content part(s))
+2026-09-01 23:52:04  DEBUG       Section flushed: [h2] 'جهاز التنفس الصناعي V680'  (1 content part(s))
+2026-09-01 23:52:04  DEBUG       Section flushed: [h2] 'جهاز التنفس الصناعي Trilogy 202'  (1 content part(s))
+2026-09-01 23:52:04  DEBUG       Section flushed (final): [h2] 'جهاز التنفس الصناعي Trilogy EVO 300'  (7 content part(s))
+2026-09-01 23:52:04  INFO      Extracted 5 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/altnfs-alsnay/khdmatna-w-mntjatna
+2026-09-01 23:52:05  INFO      [59/71] Fetching: https://sa.vitalaire.com/ar/fytalyr-alrbyt
+2026-09-01 23:52:05  DEBUG     Requesting: https://sa.vitalaire.com/ar/fytalyr-alrbyt
+2026-09-01 23:52:06  DEBUG     Response: 200 OK  (108.8 KB)
+2026-09-01 23:52:06  DEBUG       Section flushed: [h1] 'VitalAire Arabia'  (0 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed: [h2] 'مرحبـاً بكم في فيتالـير العربية !'  (0 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed: [h2] 'الرعاية الصحية ايرليكـيد'  (1 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed: [h3] 'تخطط شركة فايتالير العربية ووزارة الصحة السعودية لإطلاق مركز'  (2 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed: [h3] 'اضغط هنا لقراءة البيان الصحفي'  (0 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed: [h2] 'من نحن؟'  (2 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed: [h2] 'مُهمتنا'  (1 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed: [h2] 'الرؤيـة'  (1 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed: [h3] 'حُلولنا :'  (2 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed: [h2] 'Where to find us?'  (2 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed: [h3] 'فيتالير العربية - الدمام'  (0 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed: [h3] 'فيتالير العربية - المكتب الرئيسي الرياض'  (0 content part(s))
+2026-09-01 23:52:06  DEBUG       Section flushed (final): [h3] 'فيتالير العربية - جدة'  (12 content part(s))
+2026-09-01 23:52:06  INFO      Extracted 13 section(s), 27 internal link(s) from: https://sa.vitalaire.com/ar/fytalyr-alrbyt
+2026-09-01 23:52:07  INFO      [60/71] Fetching: https://sa.vitalaire.com/ar/ayr-lykwyd-llrayt-alshyt
+2026-09-01 23:52:07  DEBUG     Requesting: https://sa.vitalaire.com/ar/ayr-lykwyd-llrayt-alshyt
+2026-09-01 23:52:07  DEBUG     Response: 200 OK  (64.1 KB)
+2026-09-01 23:52:07  DEBUG       Section flushed (final): [h1] 'إير ليكويد للرعاية الصحية'  (6 content part(s))
+2026-09-01 23:52:07  INFO      Extracted 1 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/ayr-lykwyd-llrayt-alshyt
+2026-09-01 23:52:08  INFO      [61/71] Fetching: https://sa.vitalaire.com/sites/vitalaire_sa/files/2023-11/arabic-press-release_mou-moh-ksa-x-vitalaire-arabia.pdf
+2026-09-01 23:52:08  DEBUG     Requesting: https://sa.vitalaire.com/sites/vitalaire_sa/files/2023-11/arabic-press-release_mou-moh-ksa-x-vitalaire-arabia.pdf
+2026-09-01 23:52:09  DEBUG     Response: 200 OK  (401.8 KB)
+2026-09-01 23:52:09  INFO      Extracted 0 section(s), 0 internal link(s) from: https://sa.vitalaire.com/sites/vitalaire_sa/files/2023-11/arabic-press-release_mou-moh-ksa-x-vitalaire-arabia.pdf
+2026-09-01 23:52:10  INFO      [62/71] Fetching: https://sa.vitalaire.com/ar/node/316
+2026-09-01 23:52:10  DEBUG     Requesting: https://sa.vitalaire.com/ar/node/316
+2026-09-01 23:52:10  DEBUG     Response: 200 OK  (82.6 KB)
+2026-09-01 23:52:10  DEBUG       Section flushed: [h1] 'Legal Notice'  (1 content part(s))
+2026-09-01 23:52:10  DEBUG       Section flushed (final): [h2] 'Intellectual property'  (79 content part(s))
+2026-09-01 23:52:10  INFO      Extracted 2 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/node/316
+2026-09-01 23:52:11  INFO      [63/71] Fetching: https://sa.vitalaire.com/ar/node/346
+2026-09-01 23:52:11  DEBUG     Requesting: https://sa.vitalaire.com/ar/node/346
+2026-09-01 23:52:11  DEBUG     Response: 200 OK  (68.4 KB)
+2026-09-01 23:52:11  DEBUG       Section flushed: [h1] 'Sitemap'  (0 content part(s))
+2026-09-01 23:52:11  DEBUG       Section flushed: [h2] 'الصفحة الرئيسية'  (0 content part(s))
+2026-09-01 23:52:11  DEBUG       Section flushed: [h2] 'السُكري'  (1 content part(s))
+2026-09-01 23:52:11  DEBUG       Section flushed: [h3] 'قياس الجلوكوز المستمر'  (5 content part(s))
+2026-09-01 23:52:11  DEBUG       Section flushed: [h3] 'مضخة الإنسولين'  (4 content part(s))
+2026-09-01 23:52:11  DEBUG       Section flushed: [h2] 'انقطاع النفس أثناء النوم'  (1 content part(s))
+2026-09-01 23:52:11  DEBUG       Section flushed: [h3] 'انقطاع النفس أثناء النوم'  (5 content part(s))
+2026-09-01 23:52:11  DEBUG       Section flushed: [h2] 'العلاج بالأكسجين'  (1 content part(s))
+2026-09-01 23:52:11  DEBUG       Section flushed: [h3] 'ما هو العلاج المنزلي بالأكسجين؟'  (2 content part(s))
+2026-09-01 23:52:11  DEBUG       Section flushed (final): [h2] 'التنفس الصناعي'  (8 content part(s))
+2026-09-01 23:52:11  INFO      Extracted 10 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/node/346
+2026-09-01 23:52:12  INFO      [64/71] Fetching: https://sa.vitalaire.com/ar/lamat-warad-mrd-alskry
+2026-09-01 23:52:12  DEBUG     Requesting: https://sa.vitalaire.com/ar/lamat-warad-mrd-alskry
+2026-09-01 23:52:13  DEBUG     Response: 200 OK  (64.6 KB)
+2026-09-01 23:52:13  DEBUG       Section flushed (final): [h1] 'علامات وأعراض مرض السكري'  (10 content part(s))
+2026-09-01 23:52:13  INFO      Extracted 1 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/lamat-warad-mrd-alskry
+2026-09-01 23:52:14  INFO      [65/71] Fetching: https://sa.vitalaire.com/ar/chronic-respiratory-failures/kyf-yushakhwas-alskry
+2026-09-01 23:52:14  DEBUG     Requesting: https://sa.vitalaire.com/ar/chronic-respiratory-failures/kyf-yushakhwas-alskry
+2026-09-01 23:52:14  DEBUG     Response: 200 OK  (75.2 KB)
+2026-09-01 23:52:14  DEBUG       Section flushed: [h1] 'كيف يُشَخَّص السكري؟'  (1 content part(s))
+2026-09-01 23:52:14  DEBUG       Section flushed: [h2] 'اختبار الجلوكوز في الدم'  (2 content part(s))
+2026-09-01 23:52:14  DEBUG       Section flushed (final): [h2] 'اختبار الهيموغلوبين السكري (HbA1c)'  (14 content part(s))
+2026-09-01 23:52:14  INFO      Extracted 3 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/chronic-respiratory-failures/kyf-yushakhwas-alskry
+2026-09-01 23:52:15  INFO      [66/71] Fetching: https://sa.vitalaire.com/ar/laj-alskry-wadarth
+2026-09-01 23:52:15  DEBUG     Requesting: https://sa.vitalaire.com/ar/laj-alskry-wadarth
+2026-09-01 23:52:16  DEBUG     Response: 200 OK  (84.1 KB)
+2026-09-01 23:52:16  DEBUG       Section flushed: [h1] 'علاج السكري وإدارته'  (0 content part(s))
+2026-09-01 23:52:16  DEBUG       Section flushed: [h2] 'علاج السكري من النوع الأول'  (2 content part(s))
+2026-09-01 23:52:16  DEBUG       Section flushed: [h2] 'محاقن الإنسولين'  (1 content part(s))
+2026-09-01 23:52:16  DEBUG       Section flushed: [h2] 'أقلام الإنسولين'  (4 content part(s))
+2026-09-01 23:52:16  DEBUG       Section flushed: [h2] 'العلاج بمضخة الإنسولين'  (6 content part(s))
+2026-09-01 23:52:16  DEBUG       Section flushed: [h2] 'علاج السكري من النوع الثاني'  (3 content part(s))
+2026-09-01 23:52:16  DEBUG       Section flushed: [h2] 'النشاط البدني والتغذية'  (3 content part(s))
+2026-09-01 23:52:16  DEBUG       Section flushed: [h2] 'الأدوية الفموية لعلاج السكري'  (4 content part(s))
+2026-09-01 23:52:16  DEBUG       Section flushed (final): [h2] 'العلاجات عن طريق الحقن للسكري من النوع الثاني'  (21 content part(s))
+2026-09-01 23:52:16  INFO      Extracted 9 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/laj-alskry-wadarth
+2026-09-01 23:52:17  INFO      [67/71] Fetching: https://sa.vitalaire.com/am-i-risk-sleep-apnea
+2026-09-01 23:52:17  DEBUG     Requesting: https://sa.vitalaire.com/am-i-risk-sleep-apnea
+2026-09-01 23:52:17  WARNING   HTTP error for https://sa.vitalaire.com/am-i-risk-sleep-apnea — 403 Client Error: Forbidden for url: https://sa.vitalaire.com/am-i-risk-sleep-apnea
+2026-09-01 23:52:17  WARNING   No data returned for: https://sa.vitalaire.com/am-i-risk-sleep-apnea
+2026-09-01 23:52:18  INFO      [68/71] Fetching: https://sa.vitalaire.com/ar/node/306
+2026-09-01 23:52:18  DEBUG     Requesting: https://sa.vitalaire.com/ar/node/306
+2026-09-01 23:52:21  DEBUG     Response: 200 OK  (78.1 KB)
+2026-09-01 23:52:21  DEBUG       Section flushed: [h1] 'Am I at Risk for Sleep Apnea?'  (1 content part(s))
+2026-09-01 23:52:21  DEBUG       Section flushed (final): [h2] 'Test test'  (6 content part(s))
+2026-09-01 23:52:21  INFO      Extracted 2 section(s), 28 internal link(s) from: https://sa.vitalaire.com/ar/node/306
+2026-09-01 23:52:21  DEBUG       Queued 1 new link(s)  (queue depth: 4)
+2026-09-01 23:52:22  INFO      [69/72] Fetching: https://sa.vitalaire.com/sleep-apnea-am-i-risk
+2026-09-01 23:52:22  DEBUG     Requesting: https://sa.vitalaire.com/sleep-apnea-am-i-risk
+2026-09-01 23:52:22  DEBUG     Response: 200 OK  (60.5 KB)
+2026-09-01 23:52:22  DEBUG       Section flushed: [h1] 'Sleep Apnea: am I at risk?'  (3 content part(s))
+2026-09-01 23:52:22  DEBUG       Section flushed (final): [h2] 'Am I At Risk?'  (6 content part(s))
+2026-09-01 23:52:22  INFO      Extracted 2 section(s), 26 internal link(s) from: https://sa.vitalaire.com/sleep-apnea-am-i-risk
+2026-09-01 23:52:23  INFO      [70/72] Fetching: https://sa.vitalaire.com/form/null
+2026-09-01 23:52:23  DEBUG     Requesting: https://sa.vitalaire.com/form/null
+2026-09-01 23:52:24  DEBUG     Response: 200 OK  (101.8 KB)
+2026-09-01 23:52:24  DEBUG       Section flushed: [h1] 'VitalAire Arabia'  (0 content part(s))
+2026-09-01 23:52:24  DEBUG       Section flushed: [h2] 'Welcome to VitalAire Arabia'  (0 content part(s))
+2026-09-01 23:52:24  DEBUG       Section flushed: [h2] 'Air Liquide Health Care'  (1 content part(s))
+2026-09-01 23:52:24  DEBUG       Section flushed: [h3] 'VitalAire Arabia and the Saudi Arabia Ministry of Health pla'  (2 content part(s))
+2026-09-01 23:52:24  DEBUG     Empty heading tag <h3> skipped
+2026-09-01 23:52:24  DEBUG       Section flushed: [h3] 'Click here to read the Press Release'  (0 content part(s))
+2026-09-01 23:52:24  DEBUG       Section flushed: [h2] 'Who are we?'  (2 content part(s))
+2026-09-01 23:52:24  DEBUG       Section flushed: [h2] 'Mission'  (0 content part(s))
+2026-09-01 23:52:24  DEBUG       Section flushed: [h2] 'Vision'  (1 content part(s))
+2026-09-01 23:52:24  DEBUG       Section flushed: [h3] 'Our Solutions'  (2 content part(s))
+2026-09-01 23:52:24  DEBUG       Section flushed: [h2] 'Where to find us?'  (2 content part(s))
+2026-09-01 23:52:24  DEBUG       Section flushed: [h3] 'VitalAire Arabia - Dammam'  (0 content part(s))
+2026-09-01 23:52:24  DEBUG       Section flushed: [h3] 'VitalAire Arabia - Jeddah'  (0 content part(s))
+2026-09-01 23:52:24  DEBUG       Section flushed (final): [h3] 'VitalAire Arabia Head Office Riyadh'  (18 content part(s))
+2026-09-01 23:52:24  INFO      Extracted 13 section(s), 27 internal link(s) from: https://sa.vitalaire.com/form/null
+2026-09-01 23:52:25  INFO      [71/72] Fetching: https://sa.vitalaire.com/what-is-insulin-pump
+2026-09-01 23:52:25  DEBUG     Requesting: https://sa.vitalaire.com/what-is-insulin-pump
+2026-09-01 23:52:26  WARNING   HTTP error for https://sa.vitalaire.com/what-is-insulin-pump — 403 Client Error: Forbidden for url: https://sa.vitalaire.com/what-is-insulin-pump
+2026-09-01 23:52:26  WARNING   No data returned for: https://sa.vitalaire.com/what-is-insulin-pump
+2026-09-01 23:52:27  INFO      [72/72] Fetching: https://sa.vitalaire.com/ar/twqf-alnfs-athna-alnwm-hl-ana-fy-khtr
+2026-09-01 23:52:27  DEBUG     Requesting: https://sa.vitalaire.com/ar/twqf-alnfs-athna-alnwm-hl-ana-fy-khtr
+2026-09-01 23:52:27  DEBUG     Response: 200 OK  (63.7 KB)
+2026-09-01 23:52:27  DEBUG       Section flushed: [h1] 'توقف النفس أثناء النوم: هل أنا في خطر؟'  (3 content part(s))
+2026-09-01 23:52:27  DEBUG       Section flushed (final): [h2] 'هل أنا في خطر؟'  (6 content part(s))
+2026-09-01 23:52:27  INFO      Extracted 2 section(s), 26 internal link(s) from: https://sa.vitalaire.com/ar/twqf-alnfs-athna-alnwm-hl-ana-fy-khtr
+2026-09-01 23:52:28  INFO      ============================================================
+2026-09-01 23:52:28  INFO      Crawl complete  |  pages fetched: 69  |  pages skipped: 3
+2026-09-01 23:52:28  INFO      ============================================================
+2026-09-01 23:52:28  INFO      Writing JSON → /Users/mobcoderid-101/Desktop/Scraping-vitalaire/output/vitalaire_data_new.json
+2026-09-01 23:52:28  INFO      JSON saved successfully  (69 page(s))
+2026-09-01 23:52:28  INFO      Writing CSV  → /Users/mobcoderid-101/Desktop/Scraping-vitalaire/output/vitalaire_data_new.csv
+2026-09-01 23:52:28  INFO      CSV saved successfully  (278 row(s))
+2026-09-01 23:52:28  INFO      Done. Output files:
+2026-09-01 23:52:28  INFO        /Users/mobcoderid-101/Desktop/Scraping-vitalaire/output/vitalaire_data_new.json
+2026-09-01 23:52:28  INFO        /Users/mobcoderid-101/Desktop/Scraping-vitalaire/output/vitalaire_data_new.csv
+2026-09-01 23:52:28  INFO        /Users/mobcoderid-101/Desktop/Scraping-vitalaire/output/scraper.log
